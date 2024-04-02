@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "My First Post!\"!",
+      "datetime": "March 27, 2024 - 11:37",
+      "body": "Jag vill hem!"
+    },
+    {
+      "id": "3",
+      "title": "Kommer jag att lyckas???????",
+      "datetime": "March 28, 2024 - 10:54",
+      "body": "Vad tror vi?"
+    },
+    {
+      "id": "4",
+      "title": "Funkar det genom lokalhantering!",
+      "datetime": "March 28, 2024 - 11:27",
+      "body": "Är du riktigt säker!?"
+    }
+  ]
+}
